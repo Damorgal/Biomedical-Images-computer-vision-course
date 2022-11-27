@@ -5,6 +5,6 @@ The final project of the graduate course in computer vision with biomedical imag
  
  ## Example of the detection
  
- ![ex1](Final/e1)
+![ex1](Final/e1.jpg)
  
-  ![ex1](Final/e2)
+![ex1](Final/e2.jpg)
