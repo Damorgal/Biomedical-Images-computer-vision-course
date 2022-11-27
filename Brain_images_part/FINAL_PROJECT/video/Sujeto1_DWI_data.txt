@@ -1,0 +1,3 @@
+# Shells: 1000
+# command_history: /Users/damorgal/opt/anaconda3/bin/amp2response dwi.mif iter5_SF.mif iter5_first_dir.mif iter5_RF.txt  (version=3.0.2)
+914.452736250432 -358.957451253181 78.1298959104881 -10.187017952024 1.98287365479451 -0.202234431848712

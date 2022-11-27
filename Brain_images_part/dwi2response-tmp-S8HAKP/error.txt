@@ -1,0 +1,7 @@
+mrconvert /Users/damorgal/Documents/Master/Imagenes_biomedicas/DBF_salida.nii - -strides 0,0,0,1 -grad /Users/damorgal/Documents/Master/Imagenes_biomedicas/DBF_129orientations.dat | dwiextract - /Users/damorgal/Documents/Master/Imagenes_biomedicas/dwi2response-tmp-S8HAKP/dwi.mif -singleshell -no_bzero
+
+mrconvert: [ERROR] unexpected diffusion gradient table matrix dimensions
+mrconvert: [ERROR] error importing diffusion gradient table for image "/Users/damorgal/Documents/Master/Imagenes_biomedicas/DBF_salida.nii"
+dwiextract: [ERROR] no filename supplied to standard input (broken pipe?)
+dwiextract: [ERROR] error opening image "-"
+

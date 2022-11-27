@@ -1,0 +1,1 @@
+/Users/damorgal/opt/anaconda3/bin/dwi2response tournier NODDI_DWI.nii -grad DBF_salida.nii DBF_response.txt

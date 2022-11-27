@@ -1,0 +1,9 @@
+mrconvert /Users/damorgal/Documents/Master/Imagenes_biomedicas/DBF_salida.nii - -strides 0,0,0,1 -grad /Users/damorgal/Documents/Master/Imagenes_biomedicas/alphas.nii | dwiextract - /Users/damorgal/Documents/Master/Imagenes_biomedicas/dwi2response-tmp-86B4HN/dwi.mif -singleshell -no_bzero
+
+mrconvert: [ERROR] error converting string "\
+mrconvert: [ERROR] Cannot load row 1 of file "/Users/damorgal/Documents/Master/Imagenes_biomedicas/alphas.nii" as delimited numerical matrix data:
+mrconvert: [ERROR] \
+mrconvert: [ERROR] error importing diffusion gradient table for image "/Users/damorgal/Documents/Master/Imagenes_biomedicas/DBF_salida.nii"
+dwiextract: [ERROR] no filename supplied to standard input (broken pipe?)
+dwiextract: [ERROR] error opening image "-"
+
